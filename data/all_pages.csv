@@ -1,0 +1,33 @@
+organization_or_project_name,getting_started,about_section,how_to_contribute,history,copyright_information,funding_and_acknowledgements,visual_structure_of_repo,recommended_citation,archived_version_and_upcoming_version,resources,description_of_terms,best_practices_guide_to_apply_standard
+Darwin Core,1,1,1,,1,1,1,1,1,,1,
+EML,1,1,1,1,1,1,,1,1,,1,
+Ecological Trait Data Standard,1,1,1,,1,1,,1,1,,1,1
+MIxS,,1,1,1,1,1,,1,1,,1,
+IGSN,,1,1,,,,,,,,1,
+NMDC,,1,,1,,,1,,,,1,
+Science-on-schema.org,1,1,1,1,,,,1,1,1,1,1
+"GBIF (154 repos, we picked one about documentation)",1,1,1,1,1,1,,1,1,,,1
+"Open Geospatial Consortium (183 repos, we picked Weather on the Web repo)",,1,1,1,1,,1,,1,,1,1
+Environmental Data Initative (metadata templates repo),,1,,,,,,,,,1,
+ENVO,,1,1,1,1,,,,1,,1,
+ODM2,1,1,,,1,1,,,1,,1,1
+OBOE: The Extensible Observation Ontology,,1,,,,1,,1,1,,1,
+Exposure Ontology,1,1,,,1,,,,1,1,1,1
+Climate and Forecast metadata conventions,,1,1,,,,,,1,,1,
+FoodOn,,1,,,1,,,,1,,1,
+Semantic Web for Earth and Environment Technology Ontology,,1,1,,1,,,,1,,1,
+Subject Resource Application Ontology,,1,1,1,1,,1,,1,1,1,
+Domain Resource Application Ontology,,1,1,1,1,,1,,1,1,1,
+Access to Biological Collection Databases,,1,,,,,,,1,,1,
+Environmental Thesaurus,,1,,,,,,,1,,1,
+Sustainable Development Goals Interface Ontology,,1,1,,,,,,1,1,1,
+Darwin Core Germplasm,,1,1,,,,,1,1,1,1,
+Phenotypic QualiTy Ontology,,,1,,1,,,1,1,,1,
+Audubon Core Multimedia Resources Metadata Schema,,1,1,1,1,,1,,1,,1,
+population and community ontology,,1,1,,,,,1,1,,,
+common information model,1,1,,,1,,,,1,,,
+semantic sensor ontology network,1,1,1,,,,,,,,1,
+United States Geoscience Information Network Metadata Profile,1,1,1,,1,,,,,,1,
+World Meteorological Organization Core Metadata Profile,,,,,,,,,,,1,
+Apollo-SV,1,1,,,1,,,,1,,1,
+OGC - SensorML,,1,,,,,,,1,,1,

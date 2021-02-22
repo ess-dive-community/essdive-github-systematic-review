@@ -1,0 +1,33 @@
+organization_or_project_name,only_allows_issues,both_pull_requests_and_issues,unclear_how_to_contribute
+Darwin Core,,1,
+EML,,1,
+Ecological Trait Data Standard,1,,
+MIxS,1,,
+IGSN,1,,
+NMDC,,,1
+Science-on-schema.org,,1,
+"GBIF (154 repos, we picked one about documentation)",,1,
+"Open Geospatial Consortium (183 repos, we picked Weather on the Web repo)",,1,
+Environmental Data Initative (metadata templates repo),,,1
+ENVO,,1,
+ODM2,,,1
+OBOE: The Extensible Observation Ontology,,,1
+Exposure Ontology,,,1
+Climate and Forecast metadata conventions,,1,
+FoodOn,1,,
+Semantic Web for Earth and Environment Technology Ontology,,1,
+Subject Resource Application Ontology,,1,
+Domain Resource Application Ontology,,1,
+Access to Biological Collection Databases,,,1
+Environmental Thesaurus,1,,
+Sustainable Development Goals Interface Ontology,1,,
+Darwin Core Germplasm,,1,
+Phenotypic QualiTy Ontology,,1,
+Audubon Core Multimedia Resources Metadata Schema,1,,
+population and community ontology,1,,
+common information model,,,1
+semantic sensor network ontology ,1,,
+United States Geoscience Information Network Metadata Profile,,1,
+World Meteorological Organization Core Metadata Profile,,,1
+Apollo-SV,,,1
+OGC - SensorML,,,1
