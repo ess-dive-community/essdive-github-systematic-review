@@ -9,4 +9,4 @@ dependencies:
   - numpy
   - ipython
   - ipykernel
-prefix: /Users/RCrystalOrnelas/miniconda3/envs/sysrevenv
+prefix: [...]/miniconda3/envs/sysrevenv
