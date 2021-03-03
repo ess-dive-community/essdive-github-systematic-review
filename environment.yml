@@ -2,11 +2,10 @@ name: sysrevenv
 channels:
   - defaults
 dependencies:
-  - python
-  - seaborn
-  - matplotlib
-  - pandas
-  - numpy
-  - ipython
-  - ipykernel
-prefix: /Users/RCrystalOrnelas/miniconda3/envs/sysrevenv
+  - python=3.9.1
+  - seaborn=0.11.1
+  - matplotlib=3.3.4
+  - pandas=1.2.2
+  - numpy=1.19.2 
+  - ipython=5.3.4
+  - ipykernel=5.3.4
