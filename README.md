@@ -1,6 +1,6 @@
 # Systematic Review of data and metadata standard documentation on GitHub
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ess-dive-community/essdive-github-systematic-review/main)  ![GitHub issues](https://img.shields.io/github/issues-raw/ess-dive-community/github-systematic-review)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ess-dive-community/essdive-github-systematic-review/main)  ![GitHub issues](https://img.shields.io/github/issues-raw/ess-dive-community/github-systematic-review)  [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 
 ## About the systematic review
@@ -18,7 +18,15 @@ If you would like to contribute to this repository we encourage you to submit a 
 Will be updated soon
 
 ## Funding and acknowledgements
-Will be updated soon
+Funding for this research came from several sources. RCO, CV, SC, VH, JD, MB, ZK, ER, MS, KW, and DA were funded through the ESS-DIVE repository by the U.S. DOE’s Office of Science Biological and Environmental Research under contract number DE-AC02-05CH11231. Kim Ely and Alistair Rodgers were supported through the US Department of Energy contract number DE-SC0012704 to Brookhaven National Laboratory. Reporting format development was supported by ESS-DIVE’s Community Funds, through the Office of Biological and Environmental Research in the Department of Energy, Office of Science.
+
 
 ## Recommended citation
-Will be updated soon
+To cite the manuscript
+> Will be updated soon
+
+To cite the data and scripts found within this repository
+> Will be updated soon
+
+To cite the README and GitHub Issue Templates
+> Will be updated soon
