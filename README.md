@@ -1,6 +1,6 @@
 # Systematic Review of data and metadata standard documentation on GitHub
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ess-dive-community/github-systematic-review/main)  ![GitHub issues](https://img.shields.io/github/issues-raw/ess-dive-community/github-systematic-review)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ess-dive-community/essdive-github-systematic-review/main)  ![GitHub issues](https://img.shields.io/github/issues-raw/ess-dive-community/github-systematic-review)
 
 
 ## About the systematic review
