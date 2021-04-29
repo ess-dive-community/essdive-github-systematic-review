@@ -1,0 +1,58 @@
+organization_or_project_name,web_address,uses_github_for_managing_standard
+Darwin Core,https://github.com/tdwg/dwc,yes
+EML,https://github.com/NCEAS/eml,yes
+Ecological Trait Data Standard,https://github.com/EcologicalTraitData/ETS,yes
+MIxS,https://github.com/GenomicsStandardsConsortium/mixs,yes
+IGSN,https://github.com/IGSN/metadata,yes
+NMDC,https://github.com/microbiomedata/nmdc-metadata,yes
+Science-on-schema.org,https://github.com/ESIPFed/science-on-schema.org//,yes
+GBIF (154 repos | we picked one about documentation),https://github.com/gbif/doc-documentation-guidelines,yes
+Open Geospatial Consortium (183 repos | we picked Weather on the Web repo),https://github.com/opengeospatial/weather-on-the-web,yes
+Environmental Data Initative (metadata templates repo),https://github.com/EDIorg/MetadataTemplates,yes
+ENVO,https://github.com/EnvironmentOntology/envo,yes
+ODM2,https://github.com/ODM2/ODM2,yes
+OBOE: The Extensible Observation Ontology,https://github.com/NCEAS/oboe/,yes
+Exposure Ontology,https://github.com/EnvironmentOntology/environmental-exposure-ontology,yes
+Climate and Forecast metadata conventions,https://github.com/cf-convention/cf-conventions,yes
+FoodOn,https://github.com/FoodOntology/foodon,yes
+Semantic Web for Earth and Environment Technology Ontology,https://github.com/ESIPFed/sweet,yes
+Subject Resource Application Ontology,https://github.com/FAIRsharing/subject-ontology,yes
+Domain Resource Application Ontology,https://github.com/FAIRsharing/domain-ontology,yes
+Access to Biological Collection Databases,https://github.com/tdwg/abcd,yes
+Environmental Thesaurus,https://github.com/LTER-Europe/EnvThes,yes
+Sustainable Development Goals Interface Ontology,https://github.com/SDG-InterfaceOntology/sdgio,yes
+Darwin Core Germplasm,https://github.com/dagendresen/darwincore-germplasm,yes
+Phenotypic QualiTy Ontology,https://github.com/pato-ontology/pato/,yes
+Audubon Core Multimedia Resources Metadata Schema,https://github.com/tdwg/ac,yes
+population and community ontology,https://github.com/PopulationAndCommunityOntology/pco,yes
+Common Information Model,https://github.com/ES-DOC/esdoc-cim,yes
+semantic sensor network ontology ,https://github.com/w3c/sdw,yes
+United States Geoscience Information Network Metadata Profile,https://github.com/usgin/usginspecs,yes
+World Meteorological Organization Core Metadata Profile,https://github.com/wmo-im/wmcp,yes
+Apollo-SV ontology,https://github.com/ApolloDev/apollo-sv,yes
+OGC - SensorML,https://github.com/xdomes/SensorML,yes
+DataONE - Education (62 repos we picked education repo),https://github.com/DataONEorg/Education,no
+University of New Mexico RSD (40 repos | so chose R educational material),https://github.com/unmrds/R-data-cleaning,no
+D-lab,https://github.com/dlab-berkeley,no
+CUAHSI,https://github.com/cuahsi,no
+World Register of Marine Species,https://github.com/ropensci/worrms,no
+Infrastructure for Spatial Information in Europe,https://github.com/inspire-eu-validation,no
+Core Scientific MetaData model,https://github.com/icatproject-contrib/CSMD,no
+Space Physics Archive Search and Extract Simulation Extensions,https://github.com/spase-group,no
+ICAT Schema,https://github.com/icatproject,no
+World Meteorological Organization Core Metadata Profile,https://github.com/wmo-im/wmcp,no
+Meta-omics Data and Collection Objects,https://github.com/metaOmics,no
+Globally Unique Identifier and Life Science Identifier Applicability Statement,https://github.com/tdwg/guid-as,no
+TDWG Access Protocol for Information Retrieval,https://github.com/tdwg/tapir,no
+Structured Descriptive Data,https://github.com/tdwg/sdd,no
+Taxonomic Concept transfer Schema,https://github.com/tdwg/tcs,no
+DEscription Language for TAxonomy,http://www.tdwg.org/standards/107/,no
+Access to Biological Collection Data DNA extension,https://github.com/tdwg/abcddna,no
+Flora Phenotype Ontology,https://github.com/flora-phenotype-ontology/flopoontology,no
+Herbarium information standards and protocols for interchange of data,https://github.com/tdwg/prior-standards/tree/master/hispid3,no
+Economic Botany Data Collection Standard,https://github.com/tdwg/prior-standards/tree/master/economic-botany-data-collection-standard,no
+Plant occurrence and status scheme,https://github.com/tdwg/prior-standards/tree/master/poss,no
+Plant names in botanical databases,https://github.com/tdwg/prior-standards/tree/master/plant-names-in-botanical-databases,no
+World geographical scheme for recording plant distributions,https://github.com/tdwg/wgsrpd,no
+GeoJSON,https://github.com/geojson,no
+Marine Community Profile of ISO 19115,https://github.com/mcpgovernance/mcp-profile-docs,no

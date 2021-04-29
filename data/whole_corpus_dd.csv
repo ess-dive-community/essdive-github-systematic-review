@@ -1,0 +1,3 @@
+column_name,unit,definition,column_long_name,data_type
+organization_or_project_name,N/A,List out the name of the data standard or organization,organization_or_project_name,text
+issue_labels,N/A,This is a vector of issue labels separated by commas from all of the repos within this systematic review,issue labels from all repos,text

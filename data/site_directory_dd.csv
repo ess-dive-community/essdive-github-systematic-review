@@ -1,0 +1,4 @@
+column_name,unit,definition,column_long_name,data_type
+organization_or_project_name,N/A,List out the name of the data standard or organization,The project name,text
+web_address,N/A,"In this spreadsheet, every organization has a github page, so link to those in this column",Web address,text
+uses_github_for_managing_standard,N/A,Indicate whether the organization in the list uses github to actively manage their data standards. Options: yes | no,Does the organization use github for managing data standards,text

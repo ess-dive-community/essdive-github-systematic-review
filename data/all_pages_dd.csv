@@ -1,0 +1,14 @@
+column_name,unit,definition,column_long_name,data_type
+organization_or_project_name,N/A,List out the name of the data standard or organization,organization_or_project_name,text
+getting_started,N/A,Does the github repository include a getting started or table of contents section. Options: 1 for yes or 0 for no,getting_started,numeric
+about_section,N/A,Does the repository include a section describing the data standardOptions: 1 for yes or 0 for no,about_section,numeric
+how_to_contribute,N/A,Is there a description of how users can contribute. Options: 1 for yes or 0 for no,how_to_contribute,numeric
+history,N/A,Does the repo provide background infomation on the history of development of the data standard. Options: 1 for yes or 0 for no,history,numeric
+copyright_information,N/A,Is there a user license? Options: 1 for yes or 0 for no,copyright_information,numeric
+funding_and_acknowledgements,N/A,Is there space to acknowledge funders or other contributors to the repository? Options: 1 for yes or 0 for no,funding_and_acknowledgements,numeric
+visual_structure_of_repo,N/A,Are there diagrams that provide a visual depiction of respository structure. Options: 1 for yes or 0 for no,visual_structure_of_repo,numeric
+recommended_citation,N/A,Is there a recommended citation for the repository content. Options: 1 for yes or 0 for no,recommended_citation,numeric
+archived_version_and_upcoming_version,N/A,Do repository owners indicate a system of versioning for their standard? Options: 1 for yes or 0 for no,archived_version_and_upcoming_version,numeric
+resources,N/A,Are there links to other resources beyond information provided within the repository. Options: 1 for yes or 0 for no,resources,numeric
+description_of_terms,N/A,Are terms that comprise the data standard defined within the repo. Is Options: 1 for yes or 0 for no,description_of_terms,numeric
+best_practices_guide_to_apply_standard,N/A,Are there any demonstrations of implementation or guides to best practices provided in the repo? Options: 1 for yes or 0 for no,best_practices_guide_to_apply_standard,numeric

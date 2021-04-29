@@ -1,0 +1,109 @@
+standards_from_fairshare_search,link,github_page,platform_used,purpose,does_this_format_allow_editing,stored_in_repository?,which_repository
+Ontology of Geographical Region,N/A,N/A,"Bioportal (CSV, OBO, RDF, OWL)",conveying information,no,yes,bioportal
+Interaction Ontology,N/A,N/A,"Bioportal (CSV, OBO, RDF, OWL)",conveying information,no,yes,bioportal
+PhenX Phenotypic Terms,N/A,N/A,own website,conveying information,no,no,not in repository
+Marine Environmental Data and Information Network checklist,N/A,N/A,own website (PDF),conveying information,no,no,not in repository
+"Marine Microbial Biodiversity, Bioinformatics, Biotechnology Checklist",N/A,N/A,journal article (PDF),conveying information,no,no,not in repository
+OGC - Observations and Measurements,N/A,N/A,own website (PDF),conveying information,no,no,not in repository
+OGC - Observations and Measurements - XML Implementation,N/A,N/A,own website (PDF),conveying information,no,no,not in repository
+OGC - Sensor ML,https://github.com/xdomes/SensorML,yes,github,hosting files,yes,no,not in repository
+Sampling Features OWL implementation,N/A,N/A,broken link to website (PDF),conveying information,no,no,not in repository
+Directory Interchange Format,N/A,N/A,bitbucket,editing documents| releasing version,yes,no,not in repository
+UK Environmental Observation Framework,N/A,N/A,own website (XML| PDF),conveying information,no,no,not in repository
+ISO 19115-1:2014 Geographic information -- Metadata -- Part 1: Fundamentals,N/A,N/A,own website (PDF),conveying information,no,no,not in repository
+Environment Ontology for Livestock,N/A,N/A,INRAE,conveying information,no,yes,INRAE
+National Agricultural Library Thesaurus,N/A,N/A,own website (XML| PDF| DOC),conveying information,no,no,not in repository
+AnaEE Thesaurus,N/A,N/A,Agroportal,conveying information,no,yes,agroportal
+Country and Location Ontology,N/A,N/A,own website (CSV | OBO | RDF),conveying information,no,no,not in repository
+ISO 19115-2:2009 Geographic information -- Metadata -- Part 2: Extensions for imagery and gridded data,N/A,N/A,own website (PDF),conveying information,no,no,not in repository
+ISO/TS 19115-3:2016 Geographic information -- Metadata -- Part 3: XML schema implementation for fundamental concepts,N/A,N/A,own website (PDF),conveying information,no,no,not in repository
+North American Profile of ISO19115:2003 - Geographic information - Metadata,N/A,N/A,own website (PDF),conveying information,no,no,not in repository
+Shoreline Metadata Profile of the Content Standards for Digital Geospatial Metadata,N/A,N/A,own website (PDF),conveying information,no,no,not in repository
+UK GEo-spatial Metadata INteroperability iNItiative Metadata Standard,N/A,N/A,own website,conveying information,no,no,not in repository
+Water Markup Language,N/A,N/A,own website (pdf),conveying information,no,no,not in repository
+EDMED Metadata profile format,N/A,N/A,own website (PDF),conveying information,no,no,not in repository
+AGRIS Application Profile,N/A,N/A,own website,conveying information,no,no,not in repository
+ANZLIC,N/A,N/A,own website (PDF),conveying information,no,no,not in repository
+Cooperative Ocean-Atmosphere Research Data Service Conventions,N/A,N/A,own website (PDF),conveying information,no,no,not in repository
+Cruise Summary Reports,N/A,N/A,own website (PDF),conveying information,no,no,not in repository
+Content Standard for Digital Geospatial Metadata: Extensions for Remote Sensing Metadata,N/A,N/A,own website (PDF),conveying information,no,no,not in repository
+Energy Industry Profile (EIP) v1.1 of ISO-19115-1:2014,N/A,N/A,own website (PDF),conveying information,no,no,not in repository
+History and Sciences of Religions Vocabulary,N/A,N/A,own website (PDF; CSV; XML),conveying information,no,no,not in repository
+Vocabulary of Earth Sciences,N/A,N/A,own website (PDF; CSV; XML),conveying information,no,no,not in repository
+French Communes,N/A,N/A,own website (PDF; CSV; XML),conveying information,no,no,not in repository
+Biodiversity Thesaurus,N/A,N/A,own website (PDF; CSV; XML),conveying information,no,no,not in repository
+GeoNames Ontology,N/A,N/A,own website (RDF),conveying information,no,no,not in repository
+Agriculture and Forestry Ontology,N/A,N/A,own website,conveying information,no,no,not in repository
+GEneral Multilingual Environmental Thesaurus,N/A,N/A,own website (RDF; PDF),conveying information,no,no,not in repository
+Humanities and Social Science Electronic Thesaurus,N/A,N/A,own website,conveying information,no,no,not in repository
+ISO 3166-1:2013 Codes for the representation of names of countries and their subdivisions — Part 1: Country codes,N/A,N/A,own website (PDF),conveying information,no,no,not in repository
+standard for the Exchange of Earthquake Data,N/A,N/A,own website (PDF),conveying information,no,no,not in repository
+Minimum Information for Reusable Arthropod Abundance Data,N/A,N/A,academic paper,conveying information,no,no,not in repository
+Global Genome Biodiversity Network Data Standard,N/A,N/A,own website,conveying information,no,no,not in repository
+Darwin Core translations,N/A,N/A,own website,conveying information,no,no,not in repository
+Agroecology Knowledge Management,N/A,N/A,own website,conveying information,no,no,not in repository
+Data Product Development Guide (DPDG) (From NASA Earthdata site,Couldn't find their github page (PDF: https://cdn.earthdata.nasa.gov/conduit/upload/14909/ESDS-RFC-041.pdf),N/A,own website (PDF),conveying information,no,yes,earthdata
+GeoTIFF,https://cdn.earthdata.nasa.gov/conduit/upload/12428/19-008r4.pdf,N/A,own website (PDF),conveying information,no,yes,earthdata
+dataset interoperability recommendations,https://cdn.earthdata.nasa.gov/conduit/upload/9696/ESDS-RFC-028v1.3.pdf,N/A,own website (PDF),conveying information,no,yes,earthdata
+OGC KML,https://www.ogc.org/standards/kml,N/A,own website (PDF),conveying information,yes,no,not in repository
+netCDF,https://cdn.earthdata.nasa.gov/conduit/upload/497/ESDS-RFC-022v1.pdf,N/A,own website (PDF),conveying information,no,yes,earthdata
+GCMD keywords,https://wiki.earthdata.nasa.gov/display/gcmdkey,N/A,own website,conveying information,yes,yes,earthdata
+climate forecast metadata,https://cdn.earthdata.nasa.gov/conduit/upload/506/ESDS-RFC-021-v0.01.pdf,N/A,own website (PDF),conveying information,no,yes,earthdata
+Common Information Model,N/A,yes,github,conveying information,yes,no,not in repository
+ICAT Schema,https://github.com/icatproject,yes,github,hosting their website,yes,no,not in repository
+OBOE: The Extensible Observation Ontology,https://github.com/NCEAS/oboe/,yes,github,editing documents | releasing version,yes,yes,KNB
+Exposure Ontology,https://github.com/EnvironmentOntology/environmental-exposure-ontology,yes,github,editing documents | releasing version,yes,yes,zenodo
+World Register of Marine Species,https://github.com/ropensci/worrms,yes,github,editing documents | releasing version,yes,no,not in repository
+Infrastructure for Spatial Information in Europe,https://github.com/inspire-eu-validation,yes,github,editing documents | releasing version,yes,no,not in repository
+Core Scientific MetaData model,https://github.com/icatproject-contrib/CSMD,yes,github,editing documents | releasing version,yes,no,not in repository
+Climate and Forecast metadata conventions,https://github.com/cf-convention,yes,github,editing documents | releasing version,yes,no,not in repository
+Semantic Sensor Network Ontology,https://w3c.github.io/sdw/ssn/,yes,github,editing documents | releasing version,yes,no,not in repository
+FoodOn,https://github.com/FoodOntology/foodon,yes,github,editing documents | releasing version,yes,yes,OLS
+Semantic Web for Earth and Environment Technology Ontology,https://github.com/ESIPFed/sweet,yes,github,editing documents | releasing version,yes,no,not in repository
+Subject Resource Application Ontology,https://github.com/FAIRsharing/subject-ontology,yes,github,editing documents | releasing version,yes,no,not in repository
+Domain Resource Application Ontology,https://github.com/FAIRsharing/domain-ontology,yes,github,editing documents | releasing version,yes,no,not in repository
+Space Physics Archive Search and Extract Simulation Extensions,https://github.com/spase-group,yes,github,hosting their website,yes,no,not in repository
+Marine Community Profile of ISO 19115,https://github.com/mcpgovernance/mcp-profile-docs,yes,hosting their website | not getting feedback on format,conveying information,yes,no,not in repository
+United States Geoscience Information Network Metadata Profile,https://github.com/usgin/usginspecs,yes,github,editing documents | releasing version,yes,yes,USGIN
+World Meteorological Organization Core Metadata Profile,https://github.com/wmo-im/wmcp,yes,github,editing documents | releasing version,yes,no,not in repository
+Access to Biological Collection Databases,https://github.com/tdwg/abcd,yes,github,editing documents | releasing version,yes,no,not in repository
+Environmental Thesaurus,https://github.com/LTER-Europe/EnvThes,yes,github,editing documents | releasing version,yes,no,not in repository
+Sustainable Development Goals Interface Ontology,https://github.com/SDG-InterfaceOntology/sdgio,yes,github,editing documents | releasing version,yes,no,not in repository
+ASCII File Format Guidelines for Earth Science Data,N/A,yes,own website,conveying information,no,yes,earthdata
+GeoJSON,https://github.com/geojson,yes,github,editing documents | releasing version,yes,no,not in repository
+Darwin Core Germplasm,https://github.com/dagendresen/darwincore-germplasm,yes,github,editing documents | releasing version,yes,no,not in repository
+Meta-omics Data and Collection Objects,https://github.com/metaOmics,yes,github,editing documents | releasing version,yes,no,not in repository
+Phenotypic QualiTy Ontology,https://github.com/pato-ontology/pato/,yes,github,editing documents | releasing version,yes,yes,bioportal
+Globally Unique Identifier and Life Science Identifier Applicability Statement,https://github.com/tdwg/guid-as,yes,github,editing documents | releasing version,yes,no,not in repository
+TDWG Access Protocol for Information Retrieval,https://github.com/tdwg/tapir,yes,github,editing documents | releasing version,yes,no,not in repository
+Structured Descriptive Data,https://github.com/tdwg/sdd,yes,github,editing documents | releasing version,yes,no,not in repository
+Taxonomic Concept transfer Schema,https://github.com/tdwg/tcs,yes,github,conveying information,no,no,not in repository
+DEscription Language for TAxonomy,http://www.tdwg.org/standards/107/,yes,github,conveying information,no,no,not in repository
+Audubon Core Multimedia Resources Metadata Schema,https://github.com/tdwg/ac,yes,github,editing documents | releasing version,yes,no,not in repository
+Access to Biological Collection Data DNA extension,https://github.com/tdwg/abcddna,yes,github,conveying information,no,no,not in repository
+Apollo-SV,https://github.com/tdwg/dwc,yes,github,editing documents | releasing version,yes,yes,zenodo
+population and community ontology,https://github.com/PopulationAndCommunityOntology/pco,yes,github,editing documents | releasing version,yes,no,not in repository
+Flora Phenotype Ontology,https://github.com/flora-phenotype-ontology/flopoontology,yes,github,conveying information,no,no,not in repository
+Herbarium information standards and protocols for interchange of data,https://github.com/tdwg/prior-standards/tree/master/hispid3,yes,github,conveying information,no,no,not in repository
+Economic Botany Data Collection Standard,https://github.com/tdwg/prior-standards/tree/master/economic-botany-data-collection-standard,yes,github,conveying information,no,no,not in repository
+Plant occurrence and status scheme,https://github.com/tdwg/prior-standards/tree/master/poss,yes,github,conveying information,no,no,not in repository
+Plant names in botanical databases,https://github.com/tdwg/prior-standards/tree/master/plant-names-in-botanical-databases,yes,github,conveying information,no,no,not in repository
+World geographical scheme for recording plant distributions,https://github.com/tdwg/wgsrpd,yes,github,conveying information,no,no,not in repository
+Apollo-SV,https://github.com/ApolloDev/apollo-sv,yes,github,editing documents,yes,no,not in repository
+OATH,https://github.com/aaronpk/oauth.net,yes,github,editing documents together that get displayed on oath's website,yes,no,not in repository
+DataONE - Education (62 repos we picked education repo),https://github.com/DataONEorg/Education,yes,github,editing documents | releasing version,yes,no,not in repository
+University of New Mexico RSD (40 repos | so chose R educational material),https://github.com/unmrds/R-data-cleaning,yes,github,editing documents,yes,no ,not in repository
+D-lab,https://github.com/dlab-berkeley,yes,github,editing documents,yes,no,not in repository
+CUAHSI,https://github.com/cuahsi,yes,github,conveying information,yes,no,not in repository
+Darwin Core,https://github.com/tdwg/dwc,yes,github,,,,
+EML,https://github.com/NCEAS/eml,yes,github,,,,
+Ecological Trait Data Standard,https://github.com/EcologicalTraitData/ETS,yes,github,,,,
+MIxS,https://github.com/GenomicsStandardsConsortium/mixs,yes,github,,,,
+IGSN,https://github.com/IGSN/metadata,yes,github,,,,
+NMDC,https://github.com/microbiomedata/nmdc-metadata,yes,github,,,,
+Science-on-schema.org,https://github.com/ESIPFed/science-on-schema.org//,yes,github,,,,
+GBIF (154 repos | we picked one about documentation),https://github.com/gbif/doc-documentation-guidelines,yes,github,,,,
+Open Geospatial Consortium (183 repos | we picked Weather on the Web repo),https://github.com/opengeospatial/weather-on-the-web,yes,github,,,,
+Environmental Data Initative (metadata templates repo),https://github.com/EDIorg/MetadataTemplates,yes,github,,,,
+ENVO,https://github.com/EnvironmentOntology/envo,yes,github,,,,
+ODM2,https://github.com/ODM2/ODM2,yes,github,,,,

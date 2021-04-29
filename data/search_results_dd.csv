@@ -1,0 +1,9 @@
+column_name,unit,definition,column_long_name,data_type
+standards_from_fairshare_search,N/A,"Free text indicating the name of the data standard, reporting format, convention, or ontology",standard name based on fairshare search tool,text
+link,N/A,"link to where the reporitng format can be found on the internet. If reporting format is available on github, provide github link here",link to the standard,text
+github_page,N/A,yes' if there is github page associated with standard or N/A,does standard have github page,text
+platform_used,N/A,Indicate the main venue where data standard is hosted.,which is main platform for hosting standard documents,text
+purpose,N/A,purpose,what is purpupose of the platform hosting site,text
+does_this_format_allow_editing,N/A,indicate whether users are able to edit or suggest edits to the standard. options: yes | no,is editing format possible,text
+stored_in_repository?,N/A,is the standard stored in a long-term repository. Options: yes | no,is the standard stored in a long-term repository,text
+which_repository,N/A,Indicate which long-term repository standards are stored in. Coding: name of repository or 'not in repository',"name of repository where standard is stored, if applicable",text

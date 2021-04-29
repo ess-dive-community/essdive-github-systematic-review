@@ -1,0 +1,6 @@
+column_name,unit,definition,column_long_name,data_type
+organization_or_project_name,N/A,List out the name of the data standard or organization,organization_or_project_name,text
+only_github,N/A,Is content hosted only on github. Options: 1 for yes or 0 for no,Is content only hosted on github,numeric
+github.io._website,N/A,Have repository owners created a github.io or github pages website. Options: 1 for yes or 0 for no,is content hosted on a github.io or github pages webstie,numeric
+html_website,N/A,Have repository owners created stand alone html-based websites. Options: 1 for yes or 0 for no,is content hosted on a html-based website,numeric
+gitbook,N/A,Do repository owners use GitBook integration to create website based on repository content. Options: 1 for yes or 0 for no,is content hosted using GitBooks integration,numeric

@@ -1,0 +1,9 @@
+column_name,unit,definition,column_long_name,data_type
+organization_or_project_name,N/A,List out the name of the data standard or organization,organization_or_project_name,text
+mention_contributing,N/A,Is contributing mentioned anywhere within github repository. Options: 1 for yes or 0 for no,Does repository mention contributing,numeric
+outline_for_contributing_workflow,N/A,Do repository owners outline ways that users can contribute. Options: 1 for yes or 0 for no,Is there an outline for how workflow for contributing proceeds,numeric
+instructions_for_branching,N/A,Are there more detailed instructions on how repositories handle branching. Options: 1 for yes or 0 for no,Are there instructions for how branching within repo works,numeric
+github_tutorial,N/A,Do repositories include tutorial to using github. Options: 1 for yes or 0 for no,Is there a deidcated github tutorial within the repo,numeric
+issue_template,N/A,Are there issue templates included in the repository. Options: 1 for yes or 0 for no,Does repo provide issue templates,numeric
+code_of_conduct,N/A,Is there a code of conduct. Options: 1 for yes or 0 for no,Is there a code of conduct,numeric
+notes,N/A,This is a notes section for use by researchers collecting data. Options: 1 for yes or 0 for no,Notes from the researchers,numeric

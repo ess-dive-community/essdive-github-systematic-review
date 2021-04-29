@@ -1,0 +1,5 @@
+column_name,unit,definition,column_long_name,data_type
+organization_or_project_name,N/A,List out the name of the data standard or organization,organization_or_project_name,text
+only_allows_issues,N/A,Does the repository only allow submitting issues. Options: 1 for yes or 0 for no,Does repository allow only issue,numeric
+both_pull_requests_and_issues,N/A,Are users able to sbumit both pull requests and issues. Options: 1 for yes or 0 for no,does repository allow both issues and pull requests,numeric
+unclear_how_to_contribute,N/A,Is it unclear to visitors how to contribute. Options: 1 for yes or 0 for no,does repository not describe how users should contribute,numeric
