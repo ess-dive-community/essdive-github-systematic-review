@@ -1,0 +1,33 @@
+organization_or_project_name,only_github,github.io._website,html_website,gitbook
+Darwin Core,0,0,1,0
+EML,0,1,0,0
+Ecological Trait Data Standard,0,1,0,0
+MIxS,0,0,1,0
+IGSN,0,1,0,0
+NMDC,0,1,0,0
+Science-on-schema.org,1,0,0,0
+GBIF (154 repos | we picked one about documentation),0,0,1,0
+Open Geospatial Consortium (183 repos | we picked Weather on the Web repo),0,0,1,0
+Environmental Data Initative (metadata templates repo),0,0,1,0
+ENVO,0,0,1,0
+ODM2,0,1,0,0
+OBOE: The Extensible Observation Ontology,1,0,0,0
+Exposure Ontology,0,0,1,0
+Climate and Forecast metadata conventions,0,0,1,0
+FoodOn,0,0,1,0
+Semantic Web for Earth and Environment Technology Ontology,1,0,0,0
+Subject Resource Application Ontology,1,0,0,0
+Domain Resource Application Ontology,1,0,0,0
+Access to Biological Collection Databases,0,0,1,0
+Environmental Thesaurus,0,0,1,0
+Sustainable Development Goals Interface Ontology,1,0,0,0
+Darwin Core Germplasm,1,0,0,0
+Phenotypic QualiTy Ontology,1,0,0,0
+Audubon Core Multimedia Resources Metadata Schema,1,0,0,0
+population and community ontology,1,0,0,0
+common information model,0,0,1,0
+semantic sensor ontology network,0,1,0,0
+United States Geoscience Information Network Metadata Profile,0,1,0,0
+World Meteorological Organization Core Metadata Profile,0,0,1,0
+Apollo-SV,1,0,0,0
+OGC - SensorML,0,0,1,0
